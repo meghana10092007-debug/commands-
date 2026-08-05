@@ -1,4 +1,4 @@
 # commands-
-today i am going to learn commads&lt;
+today i am going to learn commads
 
 very good day
